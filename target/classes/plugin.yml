@@ -1,0 +1,5 @@
+name: NoShulkerBullet
+version: 1.0
+description: This is my plugin!
+main: me.PaintGlue.NoShulkerBullet.Main
+commands:
